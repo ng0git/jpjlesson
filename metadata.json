@@ -1,0 +1,5 @@
+{
+  "name": "JPJ Lesson App",
+  "description": "A comprehensive driving school application for trainees and trainers, featuring progress tracking, scheduling, route mapping, and driving simulation scenarios.",
+  "requestFramePermissions": ["geolocation"]
+}
