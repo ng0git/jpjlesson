@@ -19,7 +19,7 @@ const translations: Record<Language, Record<string, string>> = {
     brake: 'BRAKE',
     gas: 'GAS',
     onboarding_title: 'Ready to Drive?',
-    onboarding_desc: 'Rotate to Horizontal for best experience. Switch to D gear to start moving.',
+    onboarding_desc: 'Switch to D gear to start moving.',
     request_reschedule: 'Request Reschedule',
     open_calendar: 'Open Calendar',
     booking_confirmed: 'Booking Confirmed',
